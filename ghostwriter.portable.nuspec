@@ -27,7 +27,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- Is the version a prerelease of a version? https://docs.nuget.org/create/versioning#creating-prerelease-packages -->
     <!-- Note that unstable versions like 0.0.1 can be considered a released version, but it's possible that one can release a 0.0.1-beta before you release a 0.0.1 version. If the version number is final, that is considered a released version and not a prerelease. -->
     <version>2.1.6</version>
-    <packageSourceUrl>https://github.com/skadogg/ghostwriter-portabl</packageSourceUrl>
+    <packageSourceUrl>https://github.com/skadogg/ghostwriter-portable</packageSourceUrl>
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
     <owners>skadogg</owners>
     <!-- ============================== -->
@@ -49,7 +49,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <tags>ghostwriter,ghostwriter.portable</tags>
+    <tags>ghostwriter,ghostwriter.portable,MD,Markdown,Editor</tags>
     <summary>Text editor for Markdown. Provides a relaxing, distraction-free writing environment.</summary>
     <description>ghostwriter is a Windows and Linux text editor for Markdown, which is a plain text markup format created by John Gruber. For more information about Markdown, please visit John Gruber’s website at http://www.daringfireball.net. ghostwriter provides a relaxing, distraction-free writing environment, whether your masterpiece be that next blog post, your school paper, or your NaNoWriMo novel. For a tour of its features, please visit the ghostwriter project site. </description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
